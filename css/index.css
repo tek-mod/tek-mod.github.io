@@ -86,26 +86,34 @@ div > a {
 }
 
 [id='6'] {
-  background-image: url("/images/dolphin_incident_still.webp");
+  background-image: url("/images/no_elytra_incident_still.webp");
 }
 
 [id='6']:hover {
-  background-image: url("/images/dolphin_incident.gif");
+  background-image: url("/images/no_elytra_incident.gif");
 }
 
 [id='7'] {
-  background-image: url("/images/elytra_incident_still.webp");
+  background-image: url("/images/dolphin_incident_still.webp");
 }
 
 [id='7']:hover {
-  background-image: url("/images/elytra_incident.gif");
+  background-image: url("/images/dolphin_incident.gif");
 }
 
 [id='8'] {
-  background-image: url("/images/wither_skeleton_incident_still.webp");
+  background-image: url("/images/elytra_incident_still.webp");
 }
 
 [id='8']:hover {
+  background-image: url("/images/elytra_incident.gif");
+}
+
+[id='9'] {
+  background-image: url("/images/wither_skeleton_incident_still.webp");
+}
+
+[id='9']:hover {
   background-image: url("/images/wither_skeleton_incident.gif");
 }
 
